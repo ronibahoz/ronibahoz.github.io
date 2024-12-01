@@ -1,8 +1,8 @@
 body {
-background-color:grey
+background-color:gainsboro
 }
 
 p {
- color:aliceblue
+ color: aliceblue;
  font-size: 50px
  }
